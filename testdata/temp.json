@@ -1,0 +1,11 @@
+{
+    "scenario1": [{
+    "country": "India",
+    "state": "AP" 
+    },
+    {
+    "country": "US",
+    "state": "Telangana" 
+    }
+]
+}
