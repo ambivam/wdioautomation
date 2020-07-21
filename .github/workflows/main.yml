@@ -25,7 +25,7 @@ jobs:
         npm install
         npm test
         npm install -g allure-commandline --save-dev
-        allure generate --clean && allure open
+        #allure generate --clean && allure open
         #npm run allure-report
       env:
         CI: true
